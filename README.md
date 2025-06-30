@@ -1,8 +1,8 @@
 # 🧑🏻‍💻 Luiz Henrique
 
-**`Desenvolvedor em Construção`**
+**`Técnico em Desenvolvimento de Sistemas`**
 
-Me chamo Luiz Henrique de Barros Fernandes, tenho 18 anos e sou natural de São Paulo. Cursei Desenvolvimento de Sistemas pela Escola Técnica Estadual Dr. Emílio Hernandez Aguilar. Atualmente, estou cursando Desenvolvimento de Software Multiplaforma na Fatec Franco da Rocha - Giuliano Cecchettini. Sou apaixonado por tecnologia desde criança e busco constantimente aprimorar e adquirir mais conhecimento na área.
+Me chamo Luiz Henrique de Barros Fernandes, tenho 18 anos e sou natural de São Paulo. Sou Técnico em Desenvolvimento de Sistemas pela Escola Técnica Estadual Dr. Emílio Hernandez Aguilar. Atualmente, estou cursando Desenvolvimento de Software Multiplaforma na Fatec Franco da Rocha - Giuliano Cecchettini. Sou apaixonado por tecnologia desde criança e busco constantimente aprimorar e adquirir mais conhecimento na área.
 
 <div>
   <a href="https://instagram.com/lz.henrix" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
