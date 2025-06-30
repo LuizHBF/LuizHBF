@@ -92,7 +92,7 @@ Me chamo Luiz Henrique de Barros Fernandes, tenho 18 anos e sou natural de São 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=LuizHBF&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
-<br>
+<br/>
 <img 
       align="left" 
       alt="GitHub Stats" 
