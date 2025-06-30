@@ -5,9 +5,9 @@
 Me chamo Luiz Henrique de Barros Fernandes, tenho 18 anos e sou natural de São Paulo. Cursei Desenvolvimento de Sistemas pela Escola Técnica Estadual Dr. Emílio Hernandez Aguilar. Atualmente, estou cursando Desenvolvimento de Software Multiplaforma na Fatec Franco da Rocha - Giuliano Cecchettini. Sou apaixonado por tecnologia desde criança e busco constantimente aprimorar e adquirir mais conhecimento na área.
 
 <div>
-  <a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/lz.henrix" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:luizhbfcomercial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 ---
